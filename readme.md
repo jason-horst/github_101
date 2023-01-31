@@ -1,4 +1,4 @@
-# Github 101
+# Github 101 test
 
 Congrats on completing your first day of SEI! Let's do a little review quiz and while we're at it, get a little practice using Github!
 
